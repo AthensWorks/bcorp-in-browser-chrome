@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "bcorp in browser",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Highlighting when we are looking at BCorps",
+    "description": "The description of the application"
+  }
+}
